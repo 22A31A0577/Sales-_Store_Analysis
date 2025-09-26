@@ -9,12 +9,12 @@ A retail store chain tracks daily sales transactions, including order details, c
 **Problem Statement**
 
 
-1.The store doesn’t have a clear idea about :-
+1. The store doesn’t have a clear idea about :-
 
-2.which products sell the most,
+2. which products sell the most,
 
-4.customers preference,
+4. customers preference,
 
-5.which items bring in the most profit,and
+5. which items bring in the most profit,and
 
-6.where things are going wrong indelivery or operations. Because of this, they aremissing chances to earnmore, losing customers, andmaking poor businessdecisions.
+6. where things are going wrong indelivery or operations. Because of this, they aremissing chances to earnmore, losing customers, andmaking poor businessdecisions.
