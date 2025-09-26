@@ -17,4 +17,6 @@ A retail store chain tracks daily sales transactions, including order details, c
 
 5. which items bring in the most profit,and
 
-6. where things are going wrong indelivery or operations. Because of this, they aremissing chances to earnmore, losing customers, andmaking poor businessdecisions.
+6. where things are going wrong indelivery or operations.
+
+Because of this, they are missing chances to earnmore, losing customers, andmaking poor businessdecisions.
